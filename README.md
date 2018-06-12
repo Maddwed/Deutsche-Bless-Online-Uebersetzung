@@ -15,6 +15,7 @@ Die Installation ist soweit ganz einfach:
 2. im Ordner C:\Program Files (x86)\Steam\steamapps\common\Bless Online\BLGame\Localization\GER entpacken.
 3. Bless muss auf Deutsch eingestellt sein.
 
+<<<<<<< HEAD
 Youtube Howto: https://www.youtube.com/watch?v=u68viTDESYU
 
 
@@ -25,6 +26,12 @@ Die Gamestring Info beinhaltet derzeit nur die Charakter Erstellung
 
 
 Schaut rein für mehr Updates
+=======
+Derzeit sitze ich Maddwed an der Skill übersetzung, diese sollte im Laufe der Woche dann auf euch zukommen.
+derzeit Sitze ich Tesla24 an der PCParameter datei am Übersetzen.
+>>>>>>> f324b4a4c7a1a68ad9c8bcecbcafb9a46f4178d0
 
 
+Grüße
 
+Maddwed & Tesla24
