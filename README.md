@@ -21,7 +21,7 @@ Die Gamestring Info beinhaltet derzeit nur die Charakter Erstellung
 Schaut rein für mehr Updates
 =======
 Derzeit sitze ich Maddwed an der Skill übersetzung, diese sollte im Laufe der Woche dann auf euch zukommen.
-derzeit Sitze ich Tesla24 an der PCParameter datei am Übersetzen.
+derzeit Sitze ich Tesla24 an der PartyInfo datei am Übersetzen.
 
 Grüße
 
